@@ -8,7 +8,10 @@
     "url": "git@github.com:penartur/node-benchmark-pages.git"
   },
   "main": "lib/benchmark.js",
-  "dependencies": {},
+  "dependencies": {
+    "request": ">= 2.9.202"
+    , "capisce": ">= 0.4.3"
+  },
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
