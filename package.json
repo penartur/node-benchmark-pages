@@ -13,7 +13,9 @@
     , "capisce": ">= 0.4.3"
   },
   "devDependencies": {},
-  "optionalDependencies": {},
+  "optionalDependencies": {
+    "cli-table": ">= 0.0.1"
+  },
   "engines": {
     "node": ">= 0.6.15"
   }
