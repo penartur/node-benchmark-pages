@@ -11,7 +11,7 @@ Another use case is when you have more than one version of the same service and 
 
 # Examples
 
-See [example](example) directory.
+See the [example](https://github.com/penartur/node-benchmark-pages/tree/master/example) directory.
 
 # Installation
 
