@@ -4,8 +4,17 @@
   "description": "Benchmarks the response time of your web pages under a different loads; allows comparing response times for different servers",
   "version": "0.0.1",
   "homepage": "https://github.com/penartur/node-benchmark-pages",
+  "keywords": [
+    "benchmark",
+    "benchmarking",
+    "performance",
+    "speed",
+    "timing",
+    "test"
+  ],
   "repository": {
-    "url": "git@github.com:penartur/node-benchmark-pages.git"
+    "type": "git",
+    "url": "git://github.com/penartur/node-benchmark-pages.git"
   },
   "main": "lib/benchmark.js",
   "dependencies": {
