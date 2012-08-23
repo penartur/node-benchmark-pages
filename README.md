@@ -16,7 +16,7 @@ See the [example](https://github.com/penartur/node-benchmark-pages/tree/master/e
 # Installation
 
 ```bash
-$ npm install cacheio
+$ npm install benchmark-pages
 ```
 
 # Notes
